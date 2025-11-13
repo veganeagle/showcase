@@ -1,8 +1,7 @@
-# showcase
-# Gus Scaiano – Technical Showcase
 
-This repository contains selected code samples demonstrating my hands-on technical capabilitis as 
-I complete the Masters of Applied Computing at Wilfrid Laurier University. These are simplified 
+# Gus Scaiano – Technical Showcase - WIP
+
+This repository contains selected code samples demonstrating my hands-on technical capabilities. These are simplified 
 illustrations taken from two active personal projects:
 
 - **kdSay** – a real-time translation and communication platform built on Google Cloud.
@@ -14,7 +13,7 @@ coding style, clarity of thinking, and architectural approaches, while excluding
 or confidential work.
 
 ## Repository Contents
-
+(to be added)
 ### 1. `kdsay-demo/`
 Python examples illustrating:
 - A mock translation API call
